@@ -1,0 +1,24 @@
+{
+  "name": "homesec",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "request": "^2.67.0",
+    "rx": "^4.0.7",
+    "rx-node": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "2.3.4"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "description": ""
+}
